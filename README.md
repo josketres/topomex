@@ -4,7 +4,8 @@ Popular topology encoding formats for maps of Mexico.
 * [topojson](https://github.com/mbostock/topojson)
 
 ## Sources
-* [INEGI](http://www.inegi.org.mx/)
+* http://www.inegi.org.mx
+* http://www.naturalearthdata.com
 
 ## Maps data
 * mx-states - `dist/mx_states.topo.json`
