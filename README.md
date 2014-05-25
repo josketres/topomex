@@ -1,7 +1,5 @@
 # topomex
-Popular topology encoding formats for maps of Mexico.
-
-* [topojson](https://github.com/mbostock/topojson)
+"Ready to use" version of Mexico maps (for data visualization)
 
 ## Sources
 * http://www.inegi.org.mx
