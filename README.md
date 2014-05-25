@@ -6,6 +6,7 @@ Popular topology encoding formats for maps of Mexico.
 ## Sources
 * http://www.inegi.org.mx
 * http://www.naturalearthdata.com
+* http://www.diegovalle.net/projects.html#url=%23datasets
 
 ## Maps data
 * mx-states - `dist/mx_states.topo.json`
